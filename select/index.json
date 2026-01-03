@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "帝王教育",
+  "base_artist": "Omoi",
+  "createdAt": "2026-01-03T16:43:26.401588Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "帝王教育",
+      "artist": "Omoi",
+      "has_synced": false,
+      "path": "select/pl_01_帝王教育_Omoi.txt"
+    }
+  ]
+}
